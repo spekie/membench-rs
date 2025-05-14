@@ -3,7 +3,7 @@ A program for evaluating the memory system which outputs different array sizes, 
 # Compiling and Executing
 Using a system with Rust and the Cargo package manager installed, first clone this repository:
 ```sh
-git clone https://gitlab.com/spekie/membench.git
+git clone https://github.com/spekie/membench.git
 ```
 Change your current directory into the cloned repository:
 ```sh
